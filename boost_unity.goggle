@@ -9,10 +9,11 @@ forum.unity.com
 stackoverflow.com/*unity*
 
 epicgames$discard
+unrealengine$discard
+fortnite$discard
 $discard,site=epicgames.com
 $discard,site=unrealengine.com
 $discard,site=fortnite.com
-$discard,site=reddit.com
 /epic-games-store-roadmap^$discard,site=trello.com
 /Epic_Games^$discard,site=wikipedia.org
 /Epic_Games^$discard,site=en.wikipedia.org
