@@ -7,3 +7,10 @@
 $discard,site=epicgames.com
 $discard,site=stoepicgames.com
 $discard,site=unrealengine.com
+$discard,site=fortnite.com
+/epic-games-store-roadmap^$discard,site=trello.com
+/Epic_Games^$discard,site=wikipedia.org
+/Epic_Games^$discard,site=en.wikipedia.org
+/EpicGames^$discard,site=twitter.com
+/epicgames^$discard,site=instagram.com
+$discard,reddit.com/r/EpicGamesPC^
