@@ -4,9 +4,9 @@
 ! author: Nemodesm
 ! avatar: #d86e37
 
-docs.unity3d.com
-forum.unity.com
-stackoverflow.com/*unity*
+docs.unity3d.com$boost=3
+forum.unity.com$boost=3
+stackoverflow.com/*unity*$boost=2
 
 epicgames$discard
 epic-games$discard
