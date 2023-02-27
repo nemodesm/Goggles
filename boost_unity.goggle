@@ -13,4 +13,4 @@ $discard,site=fortnite.com
 /Epic_Games^$discard,site=en.wikipedia.org
 /EpicGames^$discard,site=twitter.com
 /epicgames^$discard,site=instagram.com
-/EpicGamesPC/$discard,site=reddit.com
+$discard,site=reddit.com
