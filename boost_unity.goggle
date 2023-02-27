@@ -14,3 +14,4 @@ $discard,site=reddit.com
 /Epic_Games^$discard,site=en.wikipedia.org
 /[Ee]pic[Gg]ames^$discard,site=twitter.com
 /epicgames^$discard,site=instagram.com
+/search?q=epic+games*$discard,site=twitter.com
