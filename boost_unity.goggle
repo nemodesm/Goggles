@@ -14,12 +14,6 @@ EpicGames$discard
 Epic-Games$discard
 unrealengine$discard
 fortnite$discard
-$discard,site=epicgames.com
-$discard,site=unrealengine.com
-$discard,site=fortnite.com
-/epic-games-store-roadmap^$discard,site=trello.com
-/Epic_Games^$discard,site=wikipedia.org
-/Epic_Games^$discard,site=en.wikipedia.org
-/[Ee]pic[Gg]ames^$discard,site=twitter.com
-/epicgames^$discard,site=instagram.com
-/search?q=epic+games*$discard,site=twitter.com
+epicnewsroom$discard
+epicstore$discard
+epic-store$discard
