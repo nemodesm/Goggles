@@ -9,7 +9,7 @@ $downrank
 docs.unity3d.com$boost=3
 forum.unity.com$boost=3
 stackoverflow.com/*unity*$boost=2
-unity^$boost=0
+unity^$boost=1
 
 epicgames$discard
 epic-games$discard
